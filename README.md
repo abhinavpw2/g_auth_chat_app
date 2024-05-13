@@ -1,6 +1,6 @@
 # loginapp
 
-A new Flutter project.
+a chatting app with gmail based authentication
 
 ## Getting Started
 
