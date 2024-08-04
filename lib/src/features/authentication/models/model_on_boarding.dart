@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+//Onboarding data model for the onboarding screen
 class OnBoardingModel{
   final String image;
   final String title;
