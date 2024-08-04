@@ -10,7 +10,7 @@ class ZFadeInAnimation extends StatelessWidget {
     required this.splashScreenController,
   });
 
-  final SplashScreenController splashScreenController;
+  final SplashScreenController splashScreenController;  //declaring the final controller
 
   @override
   Widget build(BuildContext context) {
